@@ -1,7 +1,7 @@
 {
     "database": {
         "host": "localhost",
-        "name": "stockSimulator",
+        "name": "StockSimulator",
         "username": "wustl_inst",
         "password": "wustl_pass"
     }
